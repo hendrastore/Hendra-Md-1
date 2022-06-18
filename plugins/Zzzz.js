@@ -4,15 +4,15 @@ let handler = async (m) => {
 let krizyn = `
 ╭─────[ *RULES* ]─────✧
 ┴
-│¹ Dilarang Hina zifabotz / Owner
+│¹ Dilarang Hina ngab dosa
 │² Dilarang Spam Command
-│³ Dilarang Kirim Virtex ke zifabotz
-│⁴ Dilarang Spam Menu Ga Jelas
-│⁵ Dilarang Telp / Vc
-│⁶ Dilarang Culik Bot
+│³ Dilarang Kirim Virtex ke owner klo gda masalh
+│⁴ Dilarang Spam Menu Ga Jelas auto blok
+│⁵ Dilarang Telp / Vc mengakibatkan downnya bot
+│⁶ Dilarang Culik Bot harus sewa:v
 │⁷ Dilarang Promosi
 │⁸ Dilarang Meniru pesan Bot
-│⁹ Bot Tidak Menerima Save Kontak
+│⁹ Bot Tidak Menerima Save Kontak ngab ingat!!
 │¹⁰ Dilarang Chat Owner Ga Jelas
 │¹¹ No plagiat
 ┬
@@ -36,7 +36,7 @@ let krizyn = `
            hydratedFooterText: '📮 Silahkan pilih Command Dibawah ini',
            hydratedButtons: [{
              urlButton: {
-               displayText: '🎮GroupBot🎮',
+               displayText: '🎮𝐆𝐫𝐨𝐮𝐩 𝐛𝐨𝐭𝐳🎮',
                url: 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
              }
 
@@ -44,7 +44,7 @@ let krizyn = `
                 {
                urlButton: {
                displayText: '🔮Myweb🔮',
-               url: 'https://istagram.com/zalfapontinanak'
+               url: 'https://github.com/Rieltod'
              }
 
            },
