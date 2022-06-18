@@ -318,7 +318,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
         listMessage: {
             title: `*${ucapan()} ${name}*`,
             description: menuu,
-            buttonText: 'KLIK DISINI',
+            buttonText: '꧁ 𝗞𝗟𝗜𝗞 𝗗𝗜𝗦𝗜𝗡𝗜 ꧂',
             listType: 1,
            FooterText:'',
             mtype: 'listMessage',
@@ -535,21 +535,21 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
              {
              urlButton: {
-               displayText: '🎮GROUP BOT🎮', 
+               displayText: '🎮𝐆𝐑𝐎𝐔𝐏 𝐁𝐎𝐓🎮', 
                url: gc
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '🐤CREATOR BOT🐤',
+               displayText: '🐤𝐂𝐑𝐄𝐀𝐓𝐎𝐑 𝐁𝐎𝐓🐤',
                id: '.owner',
              }
 
            },
                {
              quickReplyButton: {
-        displayText: '🪀SEWABOT🪀',
+        displayText: '🪀𝐒𝐄𝐖𝐀𝐁𝐎𝐓𝐙🪀',
                id: '.sewazifa',
              }
 
