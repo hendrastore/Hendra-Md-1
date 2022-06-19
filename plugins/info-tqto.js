@@ -19,8 +19,9 @@ BIG THANKS TO
     📮 https://github.com/krizynofc
 ⤿ Zifabotz_offc1
     📮 https://github.com/Botynyakamu
-    
-THANKS PARA DONASI YANG TERHORMAT
+⤿ Rielgans Ofc
+    📮 https://github.com/Rieltod
+THANKS PARA DONASI YANG TERHORMAT 🗿
 `
 conn.sendButtonImg(m.chat, fla + 'Thanks To', esce, wm2, 'Menu', '.menu', m) 
 }
