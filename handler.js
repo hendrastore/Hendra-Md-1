@@ -708,9 +708,9 @@ module.exports = {
                             pp = await this.profilePictureUrl(user, 'image')
                         } catch (e) {
                         } finally {
-                            text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yah,si Beban Masuk Grup @user').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
-                                (chat.sBye || this.bye || conn.bye || 'Sip, Beban Berkurang @user!')).replace('@user', '@' + user.split('@')[0])
-                                this.sendButtonImg(id, pp, text, "©️ zifabotz-MD", "AWOKAWOAK👋", "nani", null)
+                            text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || '*Yah,si Beban keluarga Masuk Grup gusy*🗿 @user').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
+                                (chat.sBye || this.bye || conn.bye || 'Sip, Beban Berkurang gusy @user!')).replace('@user', '@' + user.split('@')[0])
+                                this.sendButtonImg(id, pp, text, "©️ 𝚁𝙸𝙴𝙻𝙱𝙾𝚃𝚉-𝚖𝚍", "AWOKAWOAK🗿", "nani", null)
                                 }
                     }
                 }
