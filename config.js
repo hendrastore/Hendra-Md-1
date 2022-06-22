@@ -5,22 +5,22 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6282146218274'] 
+global.owner = ['6282146218274'] // nomor wa lu
 global.mods = ['6282146218274'] 
 global.prems = ['6282146218274'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'OWNER RIELBOTZ'
-global.numberowner = '6282146218274'
-global.instagram = 'https://instagram.com/Rielgans12'
+global.nameowner = 'OWNER RIELBOTZ' // namalu
+global.numberowner = '6282146218274'// nomor lu
+global.instagram = 'https://instagram.com/Rielgans12'// isi terserah
 global.github = 'https://github.com/Botynyakamu'
 global.dana = '6283813417529'
 global.pulsa = '6283813417529'
 global.gopay = '6283813417529'
 
 //=============『 Info Bot 』=================//
-global.namebot = '༆ 𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙-𝐌𝐃 ༆'
-global.gc = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ'
+global.namebot = '༆ 𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙-𝐌𝐃 ༆' // nama bot lu
+global.gc = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ' // isi gc lu 
 global.web = 'https://github.io.rieltod' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/Rielgans12'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
