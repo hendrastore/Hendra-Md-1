@@ -5,9 +5,9 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6282146218274'] // nomor wa lu
-global.mods = ['6282146218274'] 
-global.prems = ['6282146218274'] 
+global.owner = ['+24105166540'] // nomor wa lu
+global.mods = ['24105166540'] 
+global.prems = ['+24105166540'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐' // namalu
