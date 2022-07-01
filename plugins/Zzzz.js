@@ -37,14 +37,14 @@ let krizyn = `
            hydratedButtons: [{
              urlButton: {
                displayText: '🎮𝐆𝐫𝐨𝐮𝐩 𝐛𝐨𝐭𝐳🎮',
-               url: 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
+               url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
              }
 
            },
                 {
                urlButton: {
                displayText: '🔮Myweb🔮',
-               url: 'https://github.com/Rieltod'
+               url: ''
              }
 
            },
