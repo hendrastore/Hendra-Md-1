@@ -10,31 +10,31 @@ global.mods = ['6282146218274']
 global.prems = ['6282146218274'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'OWNER RIELBOTZ' // namalu
+global.nameowner = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐' // namalu
 global.numberowner = '6282146218274'// nomor lu
 global.instagram = 'https://instagram.com/Rielgans12'// isi terserah
-global.github = 'https://github.com/Rieltod'
-global.dana = '6283813417529'
-global.pulsa = '6283813417529'
-global.gopay = '6283813417529'
+global.github = ''
+global.dana = '083181085070'
+global.pulsa = '083181085070'
+global.gopay = '083181085070'
 
 //=============『 Info Bot 』=================//
-global.namebot = '༆ 𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙-𝐌𝐃 ༆' // nama bot lu
-global.gc = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ' // isi gc lu 
-global.web = 'https://github.io.rieltod' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/Rielgans12'
+global.namebot = '༆ 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐ ༆' // nama bot lu
+global.gc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL' // isi gc lu 
+global.web = '' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://www.instagram.com/hendra.mllb/'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/80a1f0497938656a30d05.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/80a1f0497938656a30d05.jpg' //ini juga ganti
-global.fotonya3 = 'https://telegra.ph/file/80a1f0497938656a30d05.jpg'
+global.fotonya1 = 'https://telegra.ph/file/78478bcca0256a698fbc8.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/78478bcca0256a698fbc8.jpg' //ini juga ganti
+global.fotonya3 = 'https://telegra.ph/file/78478bcca0256a698fbc8.jpg'
 global.donasi = 'https://telegra.ph/file/8c3dbeb8aa9ee29719598.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© ❋ཻུ۪۪⸙Rielbotz-MD⳹ ❋ཻུ۪۪'
+global.wm = '© ❋۪𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝐑𝐢𝐞𝐥𝐛𝐨𝐭𝐳_𝙊𝙛𝙛cོ1꧅'
+global.wm2 = 'ᯤ creator by 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐꧅'
 global.wm3 = 'ᯤ ʀɪᴇʟ ᴏғᴄ'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -45,8 +45,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'ʀɪᴇʟʙᴏᴛᴢ'
-global.author = '@ᖇIᗴᒪᘜᗩᑎՏ | (• ◡•)|'
+global.packname = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐'
+global.author = '@𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐ | (• ◡•)|'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
