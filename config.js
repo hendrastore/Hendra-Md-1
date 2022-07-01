@@ -11,8 +11,8 @@ global.prems = ['+24105166540']
 
 //=============『 Info Owner 』============== //
 global.nameowner = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐' // namalu
-global.numberowner = '6282146218274'// nomor lu
-global.instagram = 'https://instagram.com/Rielgans12'// isi terserah
+global.numberowner = '+24105166540'// nomor lu
+global.instagram = 'https://www.instagram.com/hendra.mllb/'// isi terserah
 global.github = ''
 global.dana = '083181085070'
 global.pulsa = '083181085070'
